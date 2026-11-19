@@ -1,5 +1,5 @@
 # streets-estates-car-dominance-svi
-Code for "Streets in Large Housing Estates" paper
+Code for "Car dominance in Large Housing Estates" paper
 
 
 This repository contains the code and visual outputs used to generate figures for the journal article:  
